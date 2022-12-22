@@ -1,4 +1,4 @@
-#What Is a Kernel, and What Does It Do? 
+# What Is a Kernel, and What Does It Do? 
 
 The kernel is the special piece of the operating system that controls the CPU hardware, allocates memory, accesses data, schedules processes, runs the applications, and protects them from each other. It is the first program loaded on the computer when the computer starts up. The most critical pieces of code in the kernel are loaded into protected areas of memory so that they can't be overwritten by other applications running in the operating system. 
 
